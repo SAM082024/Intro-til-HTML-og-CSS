@@ -1,0 +1,35 @@
+* {
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+  letter-spacing: 1px;
+  line-height: 1.2px;
+}
+
+body {
+  min-height: 100svh;
+  background-color: blueviolet;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.para {
+  color: rgb(150, 84, 84);
+}
+
+#second-para {
+  color: azure;
+  margin-top: 30px;
+}
